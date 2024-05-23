@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+"""Defines a Square class and methods for area and perimeter"""
 
-    
 
 class square:
     width = 0
